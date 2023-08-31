@@ -6,10 +6,7 @@ function toggleMode() {
   } else {
     html.classList.add("light")
   }
-
-  Anim
 }
-
 
 // a Função "html.classlist.toggle("light")"
 // tem o mesmo efeito da função citada acima, porem de forma mais simplificada.
